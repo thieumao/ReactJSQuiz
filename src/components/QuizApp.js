@@ -4,7 +4,7 @@ import Quiz from './Quiz';
 import Modal from './Modal';
 import Results from './Results';
 import shuffleQuestions from '../helpers/shuffleQuestions';
-import QUESTION_DATA from '../data/quiz-data';
+import QUESTION_DATA from '../data/toeic-data';
 
 class QuizApp extends Component {
   state = {
